@@ -1,6 +1,6 @@
 # MovingAverage
 
-![arduino_lint](https://github.com/careyi3/MovingAverage/actions/workflows/ArduinoLint/badge.svg)
+![arduino_lint](https://github.com/careyi3/MovingAverage/actions?workflow=Arduino+Lint)
 
 This library implements a basic moving average filter for smoothing sensor data over time.
 
