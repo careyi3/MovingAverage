@@ -1,0 +1,15 @@
+{
+  "name": "MovingAverage",
+  "keywords": "moving, average, filter",
+  "description": "Implements a basic moving average filter for use when wanting to smooth out signal noise.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/careyi3/MovingAverage.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}

@@ -1,0 +1,7 @@
+#! /bin/bash
+
+rm -rf ./test/out
+mkdir ./test/out
+g++ -I ./src ./test/main.cpp ./src/MovingAverage.cpp -o ./test/out/test
+./test/out/test > ./test/out/log
+cat ./test/out/log
