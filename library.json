@@ -1,5 +1,5 @@
 {
-  "name": "MovingAverage",
+  "name": "MovingAverager",
   "keywords": "moving, average, filter",
   "description": "Implements a basic moving average filter for use when wanting to smooth out signal noise.",
   "repository":
