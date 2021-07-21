@@ -23,6 +23,10 @@ filteredValue = filter.addSample(5.0); // filteredValue = 4.0
 
 ```
 
+### Arduino
+
+If you want to use this library with arduino, please find the listing [here](https://www.arduino.cc/reference/en/libraries/movingaverager/) where you can install it via the [Library Manger](https://www.arduino.cc/en/Guide/Libraries).
+
 ### API
 
 ```c ++
